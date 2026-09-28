@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+    printf("Red\nGreen\nBlue");
+    return 0;
+}
